@@ -1,4 +1,4 @@
-# OPENID_API_CONNECT
+# Protect access to APIs using OpenID_Connect
 Implemenation of OPENID with Complete OAUTH Lifecycle Management. 
 
 -- Get Access Token + OPEIND Token
