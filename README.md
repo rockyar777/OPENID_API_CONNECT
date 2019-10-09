@@ -10,3 +10,12 @@ Implemenation of OPENID with Complete OAUTH Lifecycle Management.
 -- List the Issued Tokens
 
 -- Revoke the Token by Applications and Users.
+
+# Instructions:
+
+1.
+
+2. Import the YAML Files below:
+  a.OAUTH Provider + OPENID TOKEN
+    
+
