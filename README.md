@@ -17,5 +17,6 @@ Implemenation of OPENID with Complete OAUTH Lifecycle Management.
 
 2. Import the YAML Files below:
   a.OAUTH Provider + OPENID TOKEN
+  <a href="https://github.com/rockyar777/OPENID_API_CONNECT/blob/master/OPENID%20PACKAGE.postman_collection.json">Quora profile link for Adam D'Angelo</a>
     
-https://github.com/rockyar777/OPENID_API_CONNECT/blob/master/OPENID%20PACKAGE.postman_collection.json
+
